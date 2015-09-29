@@ -94,3 +94,5 @@ public class ConditionCalculator
 
 
 }
+// Good ...now try to use +,-,*,/ instead of 1,2,3,4 
+// and please put your name on the code, as your repository does not identify you
